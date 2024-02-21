@@ -1,2 +1,2 @@
-# Example-Repository
+# Examples-Repository
 My First Repository
